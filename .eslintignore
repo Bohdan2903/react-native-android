@@ -1,0 +1,14 @@
+/.git
+/.vscode
+/.idea
+node_modules/*
+/.android
+./ios
+./__tests__
+src/libs/*
+node_modules/*
+build/
+typings/
+src/libs/*
+src/assets/*
+src/assets
